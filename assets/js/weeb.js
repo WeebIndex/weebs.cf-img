@@ -1,15 +1,5 @@
-// var random_punch_array = ['punch1.gif', 'punch2.gif'];
-// function getRandomPunch(imgAr, path) {
-//     path = path || 'assets/img/punch/';
-//     var num = Math.floor(Math.random() * imgAr.length);
-//     var img = imgAr[num];
-//     var imgStr = '<img src="' + path + img + '" alt = "">';
-//     document.write(imgStr);
-//     document.close();
-// }
-
 function randomPunch() {
-    var rand = ['https://weebsquad.github.io/assets/img/hug/punch1.gif', 'https://weebsquad.github.io/assets/img/punch/punch2.gif'];
+    var rand = ['https://weebsquad.github.io/assets/img/punch/punch1.gif', 'https://weebsquad.github.io/assets/img/punch/punch2.gif'];
     return rand[Math.floor(Math.random() * rand.length)];
 }
 
