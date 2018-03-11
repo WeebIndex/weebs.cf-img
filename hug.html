@@ -1,16 +1,14 @@
 <!DOCTYPE html>
 <html lang="en">
-
-<head>
-    <meta charset="utf-8" />
-    <title>WeebSquad | Hug</title>
-    <script src="assets/js/weeb.js"></script>
-</head>
-
-<body>
-        <script type="text/javascript">
-            getRandomHug(random_hug_array, 'assets/img/hug/')
-        </script>
-</body>
-
+   <head>
+      <meta charset="utf-8" />
+      <title>WeebSquad | Hug</title>
+      <script src="assets/js/weeb.js"></script>
+   </head>
+   <body>
+      <div id="hug"></div>
+      <script>
+         document.getElementById("hug").innerHTML = randomHug();
+      </script>
+   </body>
 </html>
