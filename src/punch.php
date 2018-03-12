@@ -1,0 +1,1 @@
+<?php $randomHug = Array('https://img.weebs.cf/img/punch/punch1.gif', 'https://img.weebs.cf/img/punch/punch2.gif');echo $randomHug[array_rand($randomHug)]?>
