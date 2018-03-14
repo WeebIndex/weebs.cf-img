@@ -1,1 +1,7 @@
-<?php $randomHug = Array('https://img.weebs.cf/img/punch/punch1.gif', 'https://img.weebs.cf/img/punch/punch2.gif');echo $randomHug[array_rand($randomHug)]?>
+<?php
+$path = 'https://img.weebs.cf/img/punch/punch';
+$fileType = '.gif';
+$num = rand(1, 20);
+$result = $path.$num.$fileType;
+echo $result
+?>
