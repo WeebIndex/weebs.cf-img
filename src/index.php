@@ -44,11 +44,15 @@
                         </tr>
                         <tr>
                           <td>Hugs</td>
-                          <td><a href="hug">Click Here</a></td>
+                          <td><a href="random/hug">Click Here</a></td>
                         </tr>
                         <tr>
                           <td>Punches</td>
-                          <td><a href="punch">Click Here</a></td>
+                          <td><a href="random/punch">Click Here</a></td>
+                        </tr>
+                        <tr>
+                          <td>Poke</td>
+                          <td><a href="random/poke">Click Here</a></td>
                         </tr>
                       </table>
                 <br>
