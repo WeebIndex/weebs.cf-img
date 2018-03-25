@@ -54,6 +54,10 @@
                           <td>Poke</td>
                           <td><a href="random/poke">Click Here</a></td>
                         </tr>
+                        <tr>
+                          <td>Pat</td>
+                          <td><a href="random/pat">Click Here</a></td>
+                        </tr>
                       </table>
                 <br>
                <small>Keep in mind this website is still a <a href="https://en.wikipedia.org/wiki/Work_in_process" target="_blank"><b>W.I.P</b></a></small> 
