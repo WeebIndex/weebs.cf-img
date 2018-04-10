@@ -12,8 +12,8 @@
       <link href="../assets/css/style.css" rel="stylesheet">
       <link rel="shortcut icon" href="../assets/img/girl.png"type="image/x-icon" />
       <!-- Assets for HighLight.js -->
-      <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/styles/default.min.css">
-      <script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/highlight.min.js"></script>
+      <link rel="stylesheet" href="../assets/css/github.css">
+      <script src="../assets/js/highlight.js"></script>
       <script>hljs.initHighlightingOnLoad();</script>
    </head>
    <body>
@@ -53,6 +53,28 @@ request.get("https://weebs.cf/random/hug").then(body => {
                 <br>
 <pre><code class="php">$text = file_get_contents("https://weebs.cf/random/hug");
 echo $text;
+</code></pre>
+                <h3>Go</h3>
+                <br>
+<pre><code class="go">package main
+import (
+	"fmt"
+	"io/ioutil"
+	"net/http"
+)
+func main() {
+	url := "https://weebs.cf/random/hug"
+	resp, err := http.Get(url)
+	if err != nil {
+		panic(err)
+	}
+	defer resp.Body.Close()
+	html, err := ioutil.ReadAll(resp.Body)
+	if err != nil {
+		panic(err)
+	}
+	fmt.Printf("%s\n", html)
+}
 </code></pre>
             </div>
          </div>
