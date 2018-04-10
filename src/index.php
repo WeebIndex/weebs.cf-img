@@ -25,6 +25,7 @@
                      <li><a href="https://github.com/OblivionSan" target="_blank"><i class="fa fa-github" aria-hidden="true"></i> GitHub</a></li>
                      <li><a href="https://twitter.com/OblivionSan" target="_blank"><i class="fa fa-twitter" aria-hidden="true"></i> Twitter</a></li>
                      <li><a href="https://discord.oblivionsan.tk/" target="_blank"><i class="fa fa-comments" aria-hidden="true"></i> Discord</a></li>
+                     <li><a href="random/"><i class="fa fa-code" aria-hidden="true"></i> Example</a></li>
                   </ul>
                </div>
             </div>
