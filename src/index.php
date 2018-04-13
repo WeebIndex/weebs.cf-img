@@ -64,7 +64,7 @@
                           <td><a href="random/kiss">Click Here</a></td>
                         </tr>
                         <tr>
-                          <td>Coin Toss</td>
+                          <td>Coin Flip</td>
                           <td><a href="random/coin">Click Here</a></td>
                         </tr>
                       </table>

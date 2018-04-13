@@ -40,8 +40,8 @@
          <hr>
          <div class="panel panel-default">
             <div class="panel-body">
-                <h2>How to use <a href="../">Weebs.CF</a> - Actions</h4>
-                <P>These examples will give you an idea on how to use Weebs.CF's <b>Random Image List</b> feature.<br>These examples will be using the <a href="https://weebs.cf/random/hug" target="_blank">Hug</a> directory</P>
+                <h2>How to use <a href="../">Weebs.CF</a> - Random Image Feature</h4>
+                <P>These examples will give you an idea on how to use Weebs.CF's <b>Random Image</b> feature.<br>These examples will be using the <a href="https://weebs.cf/random/hug" target="_blank">Hug</a> directory.</P>
                 <h3>JavaScript</h3>
                 <br>
 <pre><code class="javascript">const request = require("snekfetch");
