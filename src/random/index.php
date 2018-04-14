@@ -22,7 +22,7 @@
          <nav class="navbar navbar-default">
             <div class="container-fluid">
                <div class="navbar-header">
-                  <a class="navbar-brand" href="../"><b>WeebNav</b></a>
+                  <a class="navbar-brand" href="../"><b>Weebs.CF</b></a>
                </div>
                <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                   <ul class="nav navbar-nav">
@@ -41,7 +41,7 @@
          <div class="panel panel-default">
             <div class="panel-body">
                 <h2>How to use <a href="../">Weebs.CF</a> - Random Image Feature</h4>
-                <P>These examples will give you an idea on how to use Weebs.CF's <b>Random Image</b> feature.<br>These examples will be using the <a href="https://weebs.cf/random/hug" target="_blank">Hug</a> directory.</P>
+                <P>These examples will give you an idea on how to use Weebs.CF's <b>Random Image</b> feature.<br>These examples will be using the <a href="https://weebs.cf/random/hug" target="_blank">Hug</a> directory.<br>If you have any other usage examples for <a href="../">Weebs.CF</a>'s <b>Random Image</b> feature then feel free to let me know via my <a href="https://discord.oblivionsan.tk">Discord</a>.</P>
                 <h3>JavaScript</h3>
                 <br>
 <pre><code class="javascript">const request = require("snekfetch");
@@ -53,6 +53,12 @@ request.get("https://weebs.cf/random/hug").then(body => {
                 <br>
 <pre><code class="php">$text = file_get_contents("https://weebs.cf/random/hug");
 echo $text;
+</code></pre>
+                <h3>Python</h3>
+                <br>
+<pre><code class="python">import requests
+response = requests.get("https://weebs.cf/random/hug")
+print(response.text)
 </code></pre>
                 <h3>Go</h3>
                 <br>
