@@ -10,7 +10,7 @@
       <link href="../assets/css/bootstrap.min.css" rel="stylesheet">
       <link href="../assets/css/font-awesome.min.css" rel="stylesheet">
       <link href="../assets/css/style.css" rel="stylesheet">
-      <link rel="shortcut icon" href="../assets/img/girl.png"type="image/x-icon" />
+      <link rel="shortcut icon" href="../assets/img/girl.jpg"type="image/x-icon" />
       <!-- Assets for HighLight.js -->
       <link rel="stylesheet" href="../assets/css/github.css">
       <script src="../assets/js/highlight.js"></script>
