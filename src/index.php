@@ -76,7 +76,7 @@
       </div>
       <div class="panel panel-default">
         <div class="panel-body">
-        <h3>GitHub List</h3>
+        <h3>GitHub List.</h3>
           <!--Panel-->
           <div style="padding: 10px" class="col-sm-6">
             <div class="card">
