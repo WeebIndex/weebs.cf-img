@@ -2,7 +2,7 @@
     border-radius: 0 !important;
   }
   .navbar-default {
-      background: linear-gradient(to right, #4c68d7 , #8a3ab9);
+      background: linear-gradient(to right, #AAEDF5 ,#EDABD1);
   }
   .navbar-default .navbar-collapse, .navbar-default .navbar-form {
       border-color: #fff !important;
@@ -10,7 +10,6 @@
   .navbar-default {
       border-color: #fff;
   }
-  
   .navbar-default .navbar-nav>li>a {
       color: #fff;
   }
@@ -21,35 +20,25 @@
       color: #fff;
   }
   .navbar-default .navbar-nav>li>a:hover, .navbar-default .navbar-nav>li>a:focus {
-      background-color: linear-gradient(to right, #4c68d7 , #8a3ab9);
-  }
-  
-  a {
-      color: linear-gradient(to right, #4c68d7 , #8a3ab9);
-  }
-  
-  a:hover, a:focus {
-      color: linear-gradient(to right, #4c68d7 , #8a3ab9);
+      background-color: linear-gradient(to right, #AAEDF5 ,#EDABD1);
   }
   .btn-primary {
       color: #fff;
-      background-color: linear-gradient(to right, #4c68d7 , #8a3ab9);
+      background-color: linear-gradient(to right, #AAEDF5 ,#EDABD1);
       border-color: #000000;
   }
   .btn-primary:hover {
       color: #ffffff;
-      background-color: linear-gradient(to right, #4c68d7 , #8a3ab9);
+      background-color: linear-gradient(to right, #AAEDF5 ,#EDABD1);
       border-color: #fff;
   }
-  
   .btn-primary:active, .btn-primary.active, .open>.dropdown-toggle.btn-primary {
       color: #ffffff;
-      background-color: linear-gradient(to right, #4c68d7 , #8a3ab9);
+      background-color: linear-gradient(to right, #AAEDF5 ,#EDABD1);
       border-color: #fff;
   }
-  
   .form-control:focus {
-      border-color: linear-gradient(to right, #4c68d7 , #8a3ab9);
+      border-color: linear-gradient(to right, #AAEDF5 ,#EDABD1);
       outline: 0;
       -webkit-box-shadow: inset 0 1px 1px rgba(0,0,0,0.075), 0 0 8px rgb(0, 255, 150);
       box-shadow: inset 0 1px 1px rgba(0,0,0,0.075), 0 0 8px rgb(0, 255, 150);
@@ -69,4 +58,12 @@ td, th {
 
 tr:nth-child(even) {
     background-color: #ffffff;
+}
+
+a {
+    color: #EDABD1;
+}
+  
+a:hover, a:focus {
+    color: #BD85A6;
 }
