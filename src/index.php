@@ -71,6 +71,10 @@
               <td><a href="random/slap">Click Here</a></td>
             </tr>
             <tr>
+              <td>Laugh</td>
+              <td><a href="random/laugh">Click Here</a></td>
+            </tr>
+            <tr>
               <td>Coin Flip</td>
               <td><a href="random/coin">Click Here</a></td>
             </tr>
