@@ -88,7 +88,7 @@ func main() {
     </div>
     <div class="container text-center" style="padding-bottom:50px;">
       <hr>
-      <small class="text-muted">Website developed by <a href="https://oblivionsan.tk/" target="_blank"><b>Oblivion サン</b></a></small>
+      <small class="text-muted">Website developed by <a href="https://oblivionsan.tk/" target="_blank"><b>Oblivion さん</b></a></small>
       <br>
     </div>
   </body>
