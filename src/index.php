@@ -7,11 +7,11 @@
     <title>Weeb | Home</title>
     <script src="assets/js/bootstrap.min.js"></script>
     <script src="assets/js/jquery.min.js"></script>
+    <script src="assets/js/ghWidget.js"></script>
     <link href="assets/css/bootstrap.min.css" rel="stylesheet">
     <link href="assets/css/font-awesome.min.css" rel="stylesheet">
     <link href="assets/css/style.css" rel="stylesheet">
     <link rel="shortcut icon" href="assets/img/girl.jpg"type="image/x-icon" />
-    <script src="assets/js/ghWidget.js"></script>
   </head>
   <body>
     <div class="container"></div>
